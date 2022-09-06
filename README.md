@@ -1,5 +1,5 @@
-<h1 align="center">Hi all, I'm Vlad Krisanov</h1>
-<h3 align="center">A frontend developer from Moscow</h3>
+<h1 align="center">My name is Vlad</h1>
+<h3 align="center">I'm a Frontend Javascript developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=790b7611fe5c5463c2b951eb227f3863bf72e91e527c3649&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **TypeScript**
@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/slavvladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slavvladi" height="30" width="40" /></a>
+<a href="t.me/slavvladi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="slavvladi" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
